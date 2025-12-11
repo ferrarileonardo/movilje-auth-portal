@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@quasar/vite-plugin": "^1.9.0",
+        "@vitejs/plugin-vue": "^4.6.2",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.8",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "sass": "^1.87.0",
+        "sass-embedded": "^1.87.0",
+        "vite": "^4.5.13"
+    },
+    "dependencies": {
+        "@inertiajs/react": "^2.3.0",
+        "@inertiajs/vue3": "^2.3.0",
+        "@quasar/extras": "^1.16.17",
+        "quasar": "^2.18.6",
+        "vue-router": "^4.5.1"
+    }
+}
